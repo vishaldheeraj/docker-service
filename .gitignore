@@ -1,4 +1,4 @@
-
+*.class
 *#
 *.iml
 *.ipr
@@ -39,3 +39,4 @@ transaction-logs
 secrets.yml
 .gradletasknamecache
 .sts4-cache
+out/production/classes/com/example/dockerservice/DockerServiceApplication.class
